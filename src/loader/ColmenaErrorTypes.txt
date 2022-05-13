@@ -1,0 +1,545 @@
+16777217	 ObjectHasNoSuperclass 	 Type Related		1
+16777218	 UndefinedType 	 Type Related		2
+16777219	 NotVisibleType 	 Type Related		3
+16777220	 AmbiguousType 	 Type Related		4
+16777221	 UsingDeprecatedType 	 Type Related		5
+16777222	 InternalTypeNameProvided 	 Type Related		6
+16777231	 IncompatibleTypesInEqualityOperator 	 Type Related		15
+16777232	 IncompatibleTypesInConditionalOperator 	 Type Related		16
+16777233	 TypeMismatch 	 Type Related		17
+16777236	 MissingEnclosingInstanceForConstructorCall 	 Type Related		20
+16777237	 MissingEnclosingInstance 	 Type Related		21
+16777238	 IncorrectEnclosingInstanceReference 	 Type Related		22
+16777239	 IllegalEnclosingInstanceSpecification 	 Type Related		23
+16777243	 IllegalPrimitiveOrArrayTypeForEnclosingInstance 	 Type Related		27
+16777245	 AnonymousClassCannotExtendFinalClass 	 Type Related		29
+16777249	 TypeHidingType 	 Type Related		33
+16777327	 MissingReturnType 	 Type Related		111
+16777362	 UnhandledExceptionInDefaultConstructor 	 Type Related		146
+16777363	 UnhandledExceptionInImplicitConstructorCall 	 Type Related		147
+16777372	 IllegalCast 	 Type Related		156
+16777373	 InvalidClassInstantiation 	 Type Related		157
+16777381	 MaskedCatch 	 Type Related		165
+83886247	 UnreachableCatch 	 Type Related	 Method Related	167
+16777384	 UnhandledException 	 Type Related		168
+16777385	 IncorrectSwitchType 	 Type Related		169
+16777413	 InheritedTypeHidesEnclosingName 	 Type Related		197
+16777496	 DiscouragedReference 	 Type Related		280
+16777516	 InterfaceCannotHaveInitializers 	 Type Related		300
+16777517	 DuplicateModifierForType 	 Type Related		301
+16777518	 IllegalModifierForClass 	 Type Related		302
+16777519	 IllegalModifierForInterface 	 Type Related		303
+16777520	 IllegalModifierForMemberClass 	 Type Related		304
+16777521	 IllegalModifierForMemberInterface 	 Type Related		305
+16777522	 IllegalModifierForLocalClass 	 Type Related		306
+16777523	 ForbiddenReference 	 Type Related		307
+16777524	 IllegalModifierCombinationFinalAbstractForClass 	 Type Related		308
+16777525	 IllegalVisibilityModifierForInterfaceMemberType 	 Type Related		309
+16777526	 IllegalVisibilityModifierCombinationForMemberType 	 Type Related		310
+16777527	 IllegalStaticModifierForMemberType 	 Type Related		311
+16777528	 SuperclassMustBeAClass 	 Type Related		312
+16777529	 ClassExtendFinalClass 	 Type Related		313
+16777530	 DuplicateSuperInterface 	 Type Related		314
+16777531	 SuperInterfaceMustBeAnInterface 	 Type Related		315
+16777532	 HierarchyCircularitySelfReference 	 Type Related		316
+16777533	 HierarchyCircularity 	 Type Related		317
+16777534	 HidingEnclosingType 	 Type Related		318
+16777535	 DuplicateNestedType 	 Type Related		319
+16777536	 CannotThrowType 	 Type Related		320
+16777537	 PackageCollidesWithType 	 Type Related		321
+16777538	 TypeCollidesWithPackage 	 Type Related		322
+16777539	 DuplicateTypes 	 Type Related		323
+16777540	 IsClassPathCorrect 	 Type Related		324
+16777541	 PublicClassMustMatchFileName 	 Type Related		325
+16777543	 HierarchyHasProblems 	 Type Related		327
+16777546	 SuperclassNotFound 	 Type Related		329
+16777547	 SuperclassNotVisible 	 Type Related		329
+16777548	 SuperclassAmbiguous 	 Type Related		329
+16777549	 SuperclassInternalNameProvided 	 Type Related		329
+16777550	 SuperclassInheritedNameHidesEnclosingName 	 Type Related		329
+16777547	 RedundantSuperinterface 	 Type Related		331
+16777548	 ShouldImplementHashcode 	 Type Related		332
+16777549	 AbstractMethodsInConcreteClass 	 Type Related		333
+16777551	 InterfaceNotFound 	 Type Related		334
+16777552	 InterfaceNotVisible 	 Type Related		334
+16777553	 InterfaceAmbiguous 	 Type Related		334
+16777554	 InterfaceInternalNameProvided 	 Type Related		334
+16777555	 InterfaceInheritedNameHidesEnclosingName 	 Type Related		334
+16777740	 NonGenericType 	 Type Related		524
+16777741	 IncorrectArityForParameterizedType 	 Type Related		525
+16777742	 TypeArgumentMismatch 	 Type Related		526
+16777743	 DuplicateMethodErasure 	 Type Related		527
+16777744	 ReferenceToForwardTypeVariable 	 Type Related		528
+16777745	 BoundMustBeAnInterface 	 Type Related		529
+16777746	 UnsafeRawConstructorInvocation 	 Type Related		530
+16777747	 UnsafeRawMethodInvocation 	 Type Related		531
+16777748	 UnsafeTypeConversion 	 Type Related		532
+16777749	 InvalidTypeVariableExceptionType 	 Type Related		533
+16777750	 InvalidParameterizedExceptionType 	 Type Related		534
+16777751	 IllegalGenericArray 	 Type Related		535
+16777752	 UnsafeRawFieldAssignment 	 Type Related		536
+16777753	 FinalBoundForTypeVariable 	 Type Related		537
+16777755	 SuperInterfacesCollide 	 Type Related		539
+16777756	 WildcardConstructorInvocation 	 Type Related		540
+16777757	 WildcardMethodInvocation 	 Type Related		541
+16777758	 WildcardFieldAssignment 	 Type Related		542
+16777759	 GenericMethodTypeArgumentMismatch 	 Type Related		543
+16777760	 GenericConstructorTypeArgumentMismatch 	 Type Related		544
+16777761	 UnsafeGenericCast 	 Type Related		545
+16777764	 NonGenericMethod 	 Type Related		548
+16777765	 IncorrectArityForParameterizedMethod 	 Type Related		549
+16777766	 ParameterizedMethodArgumentTypeMismatch 	 Type Related		550
+16777767	 NonGenericConstructor 	 Type Related		551
+16777768	 IncorrectArityForParameterizedConstructor 	 Type Related		552
+16777769	 ParameterizedConstructorArgumentTypeMismatch 	 Type Related		553
+16777770	 TypeArgumentsForRawGenericMethod 	 Type Related		554
+16777771	 TypeArgumentsForRawGenericConstructor 	 Type Related		555
+16777772	 SuperTypeUsingWildcard 	 Type Related		556
+16777773	 GenericTypeCannotExtendThrowable 	 Type Related		557
+16777774	 IllegalClassLiteralForTypeVariable 	 Type Related		558
+16777777	 RawMemberTypeCannotBeParameterized 	 Type Related		561
+16777778	 MissingArgumentsForParameterizedMemberType 	 Type Related		562
+16777779	 StaticMemberOfParameterizedType 	 Type Related		563
+16777780	 BoundHasConflictingArguments 	 Type Related		564
+16777782	 IllegalQualifiedParameterizedTypeAllocation 	 Type Related		566
+16777783	 DuplicateBounds 	 Type Related		567
+16777784	 BoundCannotBeArray 	 Type Related		568
+16777785	 UnsafeRawGenericConstructorInvocation 	 Type Related		569
+16777786	 UnsafeRawGenericMethodInvocation 	 Type Related		570
+16777787	 TypeParameterHidingType 	 Type Related		571
+16777788	 RawTypeReference 	 Type Related		572
+16777789	 NoAdditionalBoundAfterTypeVariable 	 Type Related		573
+16777791	 IllegalAccessFromTypeVariable 	 Type Related		575
+16777792	 TypeHidingTypeParameterFromType 	 Type Related		576
+16777793	 TypeHidingTypeParameterFromMethod 	 Type Related		577
+16777796	 IncompatibleTypesInForeach 	 Type Related		580
+16777819	 IllegalModifierForAnnotationType 	 Type Related		603
+16777820	 IllegalModifierForAnnotationMemberType 	 Type Related		604
+16777821	 InvalidAnnotationMemberType 	 Type Related		605
+16777822	 AnnotationCircularitySelfReference 	 Type Related		606
+16777823	 AnnotationCircularity 	 Type Related		607
+16777824	 DuplicateAnnotation 	 Type Related		608
+16777825	 MissingValueForAnnotationMember 	 Type Related		609
+16777838	 DisallowedTargetForAnnotation 	 Type Related		622
+16777842	 AnnotationTypeUsedAsSuperInterface 	 Type Related		626
+16777966	 IllegalModifierForEnum 	 Type Related		750
+16777968	 IllegalModifierForLocalEnum 	 Type Related		752
+16777969	 IllegalModifierForMemberEnum 	 Type Related		753
+16777972	 CannotExtendEnum 	 Type Related		756
+1610612940	 ParsingError 	 Syntax	 Internal	204
+1610612941	 ParsingErrorNoSuggestion 	 Syntax	 Internal	205
+1610612942	 InvalidUnaryExpression 	 Syntax	 Internal	206
+1610612943	 InterfaceCannotHaveConstructors 	 Syntax	 Internal	207
+1610612944	 ArrayConstantsOnlyInArrayInitializers 	 Syntax	 Internal	208
+1610612945	 ParsingErrorOnKeyword 	 Syntax	 Internal	209
+1610612946	 ParsingErrorOnKeywordNoSuggestion 	 Syntax	 Internal	210
+1610612956	 UnmatchedBracket 	 Syntax	 Internal	220
+1610612958	 InvalidExpressionAsStatement 	 Syntax	 Internal	222
+1610612959	 ExpressionShouldBeAVariable 	 Syntax	 Internal	223
+1610612960	 MissingSemiColon 	 Syntax	 Internal	224
+1610612961	 InvalidParenthesizedExpression 	 Syntax	 Internal	225
+1610612966	 ParsingErrorInsertTokenBefore 	 Syntax	 Internal	230
+1610612967	 ParsingErrorInsertTokenAfter 	 Syntax	 Internal	231
+1610612968	 ParsingErrorDeleteToken 	 Syntax	 Internal	232
+1610612969	 ParsingErrorDeleteTokens 	 Syntax	 Internal	233
+1610612970	 ParsingErrorMergeTokens 	 Syntax	 Internal	234
+1610612971	 ParsingErrorInvalidToken 	 Syntax	 Internal	235
+1610612972	 ParsingErrorMisplacedConstruct 	 Syntax	 Internal	236
+1610612973	 ParsingErrorReplaceTokens 	 Syntax	 Internal	237
+1610612974	 ParsingErrorNoSuggestionForTokens 	 Syntax	 Internal	238
+1610612975	 ParsingErrorUnexpectedEOF 	 Syntax	 Internal	239
+1610612976	 ParsingErrorInsertToComplete 	 Syntax	 Internal	240
+1610612977	 ParsingErrorInsertToCompleteScope 	 Syntax	 Internal	241
+1610612978	 ParsingErrorInsertToCompletePhrase 	 Syntax	 Internal	242
+1610612986	 EndOfSource 	 Syntax	 Internal	250
+1610612987	 InvalidHexa 	 Syntax	 Internal	251
+1610612988	 InvalidOctal 	 Syntax	 Internal	252
+1610612989	 InvalidCharacterConstant 	 Syntax	 Internal	253
+1610612990	 InvalidEscape 	 Syntax	 Internal	254
+1610612991	 InvalidInput 	 Syntax	 Internal	255
+1610612992	 InvalidUnicodeEscape 	 Syntax	 Internal	256
+1610612993	 InvalidFloat 	 Syntax	 Internal	257
+1610612994	 NullSourceString 	 Syntax	 Internal	258
+1610612995	 UnterminatedString 	 Syntax	 Internal	259
+1610612996	 UnterminatedComment 	 Syntax	 Internal	260
+1610612998	 InvalidDigit 	 Syntax	 Internal	262
+1610612999	 InvalidLowSurrogate 	 Syntax	 Internal	263
+1610613000	 InvalidHighSurrogate 	 Syntax	 Internal	264
+1610613178	 EnumConstantsCannotBeSurroundedByParenthesis 	 Syntax	 Internal	442
+1610613314	 InvalidUsageOfWildcard 	 Syntax	 Internal	578
+1610613326	 InvalidUsageOfTypeParameters 	 Syntax	 Internal	590
+1610613327	 InvalidUsageOfStaticImports 	 Syntax	 Internal	591
+1610613328	 InvalidUsageOfForeachStatements 	 Syntax	 Internal	592
+1610613329	 InvalidUsageOfTypeArguments 	 Syntax	 Internal	593
+1610613330	 InvalidUsageOfEnumDeclarations 	 Syntax	 Internal	594
+1610613331	 InvalidUsageOfVarargs 	 Syntax	 Internal	595
+1610613332	 InvalidUsageOfAnnotations 	 Syntax	 Internal	596
+1610613333	 InvalidUsageOfAnnotationDeclarations 	 Syntax	 Internal	597
+1610613334	 InvalidUsageOfTypeParametersForAnnotationDeclaration 	 Syntax	 Internal	598
+1610613335	 InvalidUsageOfTypeParametersForEnumDeclaration 	 Syntax	 Internal	599
+1610613338	 InvalidFileNameForPackageAnnotations 	 Syntax	 Internal	602
+1610613353	 AnnotationMembersCannotHaveParameters 	 Syntax	 Internal	617
+1610613354	 AnnotationMembersCannotHaveTypeParameters 	 Syntax	 Internal	618
+1610613355	 AnnotationTypeDeclarationCannotHaveSuperclass 	 Syntax	 Internal	619
+1610613356	 AnnotationTypeDeclarationCannotHaveSuperinterfaces 	 Syntax	 Internal	620
+1610613360	 AnnotationTypeDeclarationCannotHaveConstructor 	 Syntax	 Internal	624
+1610613536	 IllegalExtendedDimensionsForVarArgs 	 Syntax	 Internal	800
+67108964	 UndefinedMethod 	 Method Related		100
+67108965	 NotVisibleMethod 	 Method Related		101
+67108966	 AmbiguousMethod 	 Method Related		102
+67108967	 UsingDeprecatedMethod 	 Method Related		103
+67108968	 DirectInvocationOfAbstractMethod 	 Method Related		104
+67108969	 VoidMethodReturnsValue 	 Method Related		105
+67108970	 MethodReturnsVoid 	 Method Related		106
+67108974	 MethodButWithConstructorName 	 Method Related		110
+67108978	 NoMessageSendOnBaseType 	 Method Related		114
+67108979	 ParameterMismatch 	 Method Related		115
+67108980	 NoMessageSendOnArrayType 	 Method Related		116
+67108984	 MissingTypeInMethod 	 Method Related		120
+67109056	 NeedToEmulateMethodAccess 	 Method Related		192
+67109057	 NeedToEmulateConstructorAccess 	 Method Related		193
+67109059	 InheritedMethodHidesEnclosingName 	 Method Related		195
+67109219	 DuplicateMethod 	 Method Related		355
+67109220	 IllegalModifierForArgument 	 Method Related		356
+67109221	 DuplicateModifierForMethod 	 Method Related		357
+67109222	 IllegalModifierForMethod 	 Method Related		358
+67109223	 IllegalModifierForInterfaceMethod 	 Method Related		359
+67109224	 IllegalVisibilityModifierCombinationForMethod 	 Method Related		360
+67109225	 UnexpectedStaticModifierForMethod 	 Method Related		361
+67109226	 IllegalAbstractModifierCombinationForMethod 	 Method Related		362
+67109227	 AbstractMethodInAbstractClass 	 Method Related		363
+67109228	 ArgumentTypeCannotBeVoid 	 Method Related		364
+67109229	 ArgumentTypeCannotBeVoidArray 	 Method Related		365
+67109230	 ReturnTypeCannotBeVoidArray 	 Method Related		366
+67109231	 NativeMethodsCannotBeStrictfp 	 Method Related		367
+67109232	 DuplicateModifierForArgument 	 Method Related		368
+67109233	 IllegalModifierForConstructor 	 Method Related		369
+67109234	 ArgumentTypeNotFound 	 Method Related		369
+67109235	 ArgumentTypeNotVisible 	 Method Related		369
+67109236	 ArgumentTypeAmbiguous 	 Method Related		369
+67109237	 ArgumentTypeInternalNameProvided 	 Method Related		369
+67109238	 ArgumentTypeInheritedNameHidesEnclosingName 	 Method Related		369
+67109239	 ExceptionTypeNotFound 	 Method Related		374
+67109240	 ExceptionTypeNotVisible 	 Method Related		374
+67109241	 ExceptionTypeAmbiguous 	 Method Related		374
+67109242	 ExceptionTypeInternalNameProvided 	 Method Related		374
+67109243	 ExceptionTypeInheritedNameHidesEnclosingName 	 Method Related		374
+67109244	 ReturnTypeNotFound 	 Method Related		379
+67109245	 ReturnTypeNotVisible 	 Method Related		379
+67109246	 ReturnTypeAmbiguous 	 Method Related		379
+67109247	 ReturnTypeInternalNameProvided 	 Method Related		379
+67109248	 ReturnTypeInheritedNameHidesEnclosingName 	 Method Related		379
+67109259	 DuplicateModifierForVariable 	 Method Related		395
+67109260	 IllegalModifierForVariable 	 Method Related		396
+67109264	 AbstractMethodMustBeImplemented 	 Method Related		400
+67109265	 FinalMethodCannotBeOverridden 	 Method Related		401
+67109266	 IncompatibleExceptionInThrowsClause 	 Method Related		402
+67109267	 IncompatibleExceptionInInheritedMethodThrowsClause 	 Method Related		403
+67109268	 IncompatibleReturnType 	 Method Related		404
+67109269	 InheritedMethodReducesVisibility 	 Method Related		405
+67109270	 CannotOverrideAStaticMethodWithAnInstanceMethod 	 Method Related		406
+67109271	 CannotHideAnInstanceMethodWithAStaticMethod 	 Method Related		407
+67109272	 StaticInheritedMethodConflicts 	 Method Related		408
+67109273	 MethodReducesVisibility 	 Method Related		409
+67109274	 OverridingNonVisibleMethod 	 Method Related		410
+67109275	 AbstractMethodCannotBeOverridden 	 Method Related		411
+67109276	 OverridingDeprecatedMethod 	 Method Related		412
+67109277	 IncompatibleReturnTypeForNonInheritedInterfaceMethod 	 Method Related		413
+67109278	 IncompatibleExceptionInThrowsClauseForNonInheritedInterfaceMethod 	 Method Related		414
+67109279	 IllegalVararg 	 Method Related		415
+67109280	 OverridingMethodWithoutSuperInvocation 	 Method Related		416
+67109281	 MissingSynchronizedModifierInInheritedMethod 	 Method Related		417
+67109282	 AbstractMethodMustBeImplementedOverConcreteMethod 	 Method Related		418
+67109283	 InheritedIncompatibleReturnType 	 Method Related		419
+67109423	 UnsafeReturnTypeOverride 	 Method Related		559
+67109424	 MethodNameClash 	 Method Related		560
+67109429	 DuplicateParameterizedMethods 	 Method Related		565
+67109438	 UnsafeGenericArrayForVarargs 	 Method Related		574
+67109443	 UnusedTypeArgumentsForMethodInvocation 	 Method Related		579
+67109464	 IllegalModifierForAnnotationMethod 	 Method Related		600
+67109465	 IllegalExtendedDimensions 	 Method Related		601
+67109475	 UndefinedAnnotationMember 	 Method Related		611
+67109480	 AnnotationCannotOverrideMethod 	 Method Related		616
+67109487	 MethodMustOverride 	 Method Related		623
+67109491	 MissingOverrideAnnotation 	 Method Related		627
+67109498	 MethodMustOverrideOrImplement 	 Method Related		634
+67109524	 UnusedTypeArgumentsForConstructorInvocation 	 Method Related		660
+67109618	 CannotDeclareEnumSpecialMethod 	 Method Related		754
+67109621	 CannotInvokeSuperConstructorInEnum 	 Method Related		757
+67109622	 EnumAbstractMethodMustBeImplemented 	 Method Related		758
+67109624	 IllegalModifierForEnumConstructor 	 Method Related		760
+67109627	 EnumConstantMustImplementAbstractMethod 	 Method Related		763
+67109628	 EnumConstantCannotDefineAbstractMethod 	 Method Related		764
+67109629	 AbstractMethodInEnum 	 Method Related		765
+67109665	 MethodVarargsArgumentNeedCast 	 Method Related		801
+67109667	 VarargsConflict 	 Method Related		803
+-1610612274	 JavadocInvalidSeeUrlReference 	 Javadoc	 Internal	462
+-1610612273	 JavadocMissingTagDescription 	 Javadoc	 Internal	463
+-1610612272	 JavadocDuplicateTag 	 Javadoc	 Internal	464
+-1610612271	 JavadocHiddenReference 	 Javadoc	 Internal	465
+-1610612270	 JavadocInvalidMemberTypeQualification 	 Javadoc	 Internal	466
+-1610612269	 JavadocMissingIdentifier 	 Javadoc	 Internal	467
+-1610612268	 JavadocNonStaticTypeFromStaticInvocation 	 Javadoc	 Internal	468
+-1610612267	 JavadocInvalidParamTagTypeParameter 	 Javadoc	 Internal	469
+-1610612266	 JavadocUnexpectedTag 	 Javadoc	 Internal	470
+-1610612265	 JavadocMissingParamTag 	 Javadoc	 Internal	471
+-1610612264	 JavadocMissingParamName 	 Javadoc	 Internal	472
+-1610612263	 JavadocDuplicateParamName 	 Javadoc	 Internal	473
+-1610612262	 JavadocInvalidParamName 	 Javadoc	 Internal	474
+-1610612261	 JavadocMissingReturnTag 	 Javadoc	 Internal	475
+-1610612260	 JavadocDuplicateReturnTag 	 Javadoc	 Internal	476
+-1610612259	 JavadocMissingThrowsTag 	 Javadoc	 Internal	477
+-1610612258	 JavadocMissingThrowsClassName 	 Javadoc	 Internal	478
+-1610612257	 JavadocInvalidThrowsClass 	 Javadoc	 Internal	479
+-1610612256	 JavadocDuplicateThrowsClassName 	 Javadoc	 Internal	480
+-1610612255	 JavadocInvalidThrowsClassName 	 Javadoc	 Internal	481
+-1610612254	 JavadocMissingSeeReference 	 Javadoc	 Internal	482
+-1610612253	 JavadocInvalidSeeReference 	 Javadoc	 Internal	483
+-1610612252	 JavadocInvalidSeeHref 	 Javadoc	 Internal	484
+-1610612251	 JavadocInvalidSeeArgs 	 Javadoc	 Internal	485
+-1610612250	 JavadocMissing 	 Javadoc	 Internal	486
+-1610612249	 JavadocInvalidTag 	 Javadoc	 Internal	487
+-1610612248	 JavadocUndefinedField 	 Javadoc	 Internal	488
+-1610612247	 JavadocNotVisibleField 	 Javadoc	 Internal	489
+-1610612246	 JavadocAmbiguousField 	 Javadoc	 Internal	490
+-1610612245	 JavadocUsingDeprecatedField 	 Javadoc	 Internal	491
+-1610612244	 JavadocUndefinedConstructor 	 Javadoc	 Internal	492
+-1610612243	 JavadocNotVisibleConstructor 	 Javadoc	 Internal	493
+-1610612242	 JavadocAmbiguousConstructor 	 Javadoc	 Internal	494
+-1610612241	 JavadocUsingDeprecatedConstructor 	 Javadoc	 Internal	495
+-1610612240	 JavadocUndefinedMethod 	 Javadoc	 Internal	496
+-1610612239	 JavadocNotVisibleMethod 	 Javadoc	 Internal	497
+-1610612238	 JavadocAmbiguousMethod 	 Javadoc	 Internal	498
+-1610612237	 JavadocUsingDeprecatedMethod 	 Javadoc	 Internal	499
+-1610612236	 JavadocNoMessageSendOnBaseType 	 Javadoc	 Internal	500
+-1610612235	 JavadocParameterMismatch 	 Javadoc	 Internal	501
+-1610612234	 JavadocNoMessageSendOnArrayType 	 Javadoc	 Internal	502
+-1610612233	 JavadocUndefinedType 	 Javadoc	 Internal	503
+-1610612232	 JavadocNotVisibleType 	 Javadoc	 Internal	504
+-1610612231	 JavadocAmbiguousType 	 Javadoc	 Internal	505
+-1610612230	 JavadocUsingDeprecatedType 	 Javadoc	 Internal	506
+-1610612229	 JavadocInternalTypeNameProvided 	 Javadoc	 Internal	507
+-1610612228	 JavadocInheritedMethodHidesEnclosingName 	 Javadoc	 Internal	508
+-1610612227	 JavadocInheritedFieldHidesEnclosingName 	 Javadoc	 Internal	509
+-1610612226	 JavadocInheritedNameHidesEnclosingTypeName 	 Javadoc	 Internal	510
+-1610612225	 JavadocAmbiguousMethodReference 	 Javadoc	 Internal	511
+-1610612224	 JavadocUnterminatedInlineTag 	 Javadoc	 Internal	512
+-1610612223	 JavadocMalformedSeeReference 	 Javadoc	 Internal	513
+-1610612221	 JavadocMissingHashCharacter 	 Javadoc	 Internal	515
+-1610612220	 JavadocEmptyReturnTag 	 Javadoc	 Internal	516
+-1610612219	 JavadocInvalidValueReference 	 Javadoc	 Internal	517
+-1610612218	 JavadocUnexpectedText 	 Javadoc	 Internal	518
+-1610612217	 JavadocInvalidParamTagName 	 Javadoc	 Internal	519
+-1610611886	 JavadocGenericMethodTypeArgumentMismatch 	 Javadoc	 Internal	850
+-1610611885	 JavadocNonGenericMethod 	 Javadoc	 Internal	851
+-1610611884	 JavadocIncorrectArityForParameterizedMethod 	 Javadoc	 Internal	852
+-1610611883	 JavadocParameterizedMethodArgumentTypeMismatch 	 Javadoc	 Internal	853
+-1610611882	 JavadocTypeArgumentsForRawGenericMethod 	 Javadoc	 Internal	854
+-1610611881	 JavadocGenericConstructorTypeArgumentMismatch 	 Javadoc	 Internal	855
+-1610611880	 JavadocNonGenericConstructor 	 Javadoc	 Internal	856
+-1610611879	 JavadocIncorrectArityForParameterizedConstructor 	 Javadoc	 Internal	857
+-1610611878	 JavadocParameterizedConstructorArgumentTypeMismatch 	 Javadoc	 Internal	858
+-1610611877	 JavadocTypeArgumentsForRawGenericConstructor 	 Javadoc	 Internal	859
+553648135	 UnusedPrivateType 	 Internal	 Type Related	7
+553648146	 IndirectAccessToStaticType 	 Internal	 Type Related	18
+536870936	 CannotDefineStaticInitializerInLocalType 	 Internal		24
+536870937	 OuterLocalMustBeFinal 	 Internal		25
+536870938	 CannotDefineInterfaceInLocalType 	 Internal		26
+536870940	 EnclosingInstanceInConstructorCall 	 Internal		28
+536870942	 CannotDefineAnnotationInLocalType 	 Internal		30
+536870943	 CannotDefineEnumInLocalType 	 Internal		31
+536870944	 NonStaticContextForEnumMemberType 	 Internal		32
+570425394	 UndefinedName 	 Internal	 Field Related	50
+536870963	 UninitializedLocalVariable 	 Internal		51
+536870964	 VariableTypeCannotBeVoid 	 Internal		52
+536870965	 VariableTypeCannotBeVoidArray 	 Internal		53
+536870966	 CannotAllocateVoidArray 	 Internal		54
+536870967	 RedefinedLocal 	 Internal		55
+536870968	 RedefinedArgument 	 Internal		56
+536870969	 DuplicateFinalLocalInitialization 	 Internal		57
+536870970	 NonBlankFinalLocalAssignment 	 Internal		58
+536870971	 ParameterAssignment 	 Internal		59
+536870972	 FinalOuterLocalAssignment 	 Internal		60
+536870973	 LocalVariableIsNeverUsed 	 Internal		61
+536870974	 ArgumentIsNeverUsed 	 Internal		62
+536870975	 BytecodeExceeds64KLimit 	 Internal		63
+536870976	 BytecodeExceeds64KLimitForClinit 	 Internal		64
+536870977	 TooManyArgumentSlots 	 Internal		65
+536870978	 TooManyLocalVariableSlots 	 Internal		66
+536870979	 TooManySyntheticArgumentSlots 	 Internal		67
+536870980	 TooManyArrayDimensions 	 Internal		68
+536870981	 BytecodeExceeds64KLimitForConstructor 	 Internal		69
+570425420	 NonStaticAccessToStaticField 	 Internal	 Field Related	76
+570425421	 UnusedPrivateField 	 Internal	 Field Related	77
+570425422	 IndirectAccessToStaticField 	 Internal	 Field Related	78
+570425423	 UnqualifiedFieldAccess 	 Internal	 Field Related	79
+536871002	 LocalVariableHidingLocalVariable 	 Internal		90
+570425435	 LocalVariableHidingField 	 Internal	 Field Related	91
+570425436	 FieldHidingLocalVariable 	 Internal	 Field Related	92
+570425437	 FieldHidingField 	 Internal	 Field Related	93
+536871006	 ArgumentHidingLocalVariable 	 Internal		94
+536871007	 ArgumentHidingField 	 Internal		95
+536871008	 MissingSerialVersion 	 Internal		96
+603979883	 MethodRequiresBody 	 Internal	 Method Related	107
+603979884	 ShouldReturnValue 	 Internal	 Method Related	108
+603979888	 BodyForNativeMethod 	 Internal	 Method Related	112
+603979889	 BodyForAbstractMethod 	 Internal	 Method Related	113
+603979893	 NonStaticAccessToStaticMethod 	 Internal	 Method Related	117
+603979894	 UnusedPrivateMethod 	 Internal	 Method Related	118
+603979895	 IndirectAccessToStaticMethod 	 Internal	 Method Related	119
+603979910	 UnusedPrivateConstructor 	 Internal	 Method Related	134
+536871061	 DeadCode 	 Internal		149
+536871062	 ArrayReferenceRequired 	 Internal		150
+536871063	 NoImplicitStringConversionForCharArrayExpression 	 Internal		151
+536871064	 StringConstantIsExceedingUtf8Limit 	 Internal		152
+536871065	 NonConstantExpression 	 Internal		153
+536871066	 NumericValueOutOfRange 	 Internal		154
+536871070	 CannotDefineDimensionExpressionsWithInit 	 Internal		158
+536871071	 MustDefineEitherDimensionExpressionsOrInitializer 	 Internal		159
+536871072	 InvalidOperator 	 Internal		160
+536871073	 CodeCannotBeReached 	 Internal		161
+536871074	 CannotReturnInInitializer 	 Internal		162
+536871075	 InitializerMustCompleteNormally 	 Internal		163
+536871076	 InvalidVoidExpression 	 Internal		164
+536871078	 DuplicateDefaultCase 	 Internal		166
+536871083	 DuplicateLabel 	 Internal		171
+536871084	 InvalidBreak 	 Internal		172
+536871085	 InvalidContinue 	 Internal		173
+536871086	 UndefinedLabel 	 Internal		174
+536871087	 InvalidTypeToSynchronized 	 Internal		175
+536871088	 InvalidNullToSynchronized 	 Internal		176
+536871089	 CannotThrowNull 	 Internal		177
+536871090	 AssignmentHasNoEffect 	 Internal		178
+536871091	 PossibleAccidentalBooleanAssignment 	 Internal		179
+536871092	 SuperfluousSemicolon 	 Internal		180
+553648309	 UnnecessaryCast 	 Internal	 Type Related	181
+553648310	 UnnecessaryArgumentCast 	 Internal	 Type Related	182
+553648311	 UnnecessaryInstanceof 	 Internal	 Type Related	183
+536871096	 FinallyMustCompleteNormally 	 Internal		184
+536871097	 UnusedMethodDeclaredThrownException 	 Internal		185
+536871098	 UnusedConstructorDeclaredThrownException 	 Internal		186
+553648315	 InvalidCatchBlockSequence 	 Internal	 Type Related	187
+553648316	 EmptyControlFlowStatement 	 Internal	 Type Related	188
+536871101	 UnnecessaryElse 	 Internal		189
+536871106	 FallthroughCase 	 Internal		194
+1610612934	 IllegalUsageOfQualifiedTypeReference 	 Internal	 Syntax	198
+536871111	 UnusedLabel 	 Internal		199
+536871112	 ThisInStaticContext 	 Internal		200
+603979977	 StaticMethodRequested 	 Internal	 Method Related	201
+536871114	 IllegalDimension 	 Internal		202
+536871115	 InvalidTypeExpression 	 Internal		203
+536871123	 ComparingIdentical 	 Internal		211
+536871173	 NonExternalizedStringLiteral 	 Internal		261
+536871177	 UnnecessaryNLSTag 	 Internal		265
+536871238	 MustSpecifyPackage 	 Internal		326
+536871240	 PackageIsNotExpectedPackage 	 Internal		328
+536871241	 ObjectCannotHaveSuperTypes 	 Internal		329
+536871242	 ObjectMustBeClass 	 Internal		330
+536871309	 LocalVariableCannotBeNull 	 Internal		397
+536871310	 LocalVariableCanOnlyBeNull 	 Internal		398
+536871311	 LocalVariableMayBeNull 	 Internal		399
+536871332	 CodeSnippetMissingClass 	 Internal		420
+536871333	 CodeSnippetMissingMethod 	 Internal		421
+536871334	 CannotUseSuperInCodeSnippet 	 Internal		422
+536871342	 TooManyConstantsInConstantPool 	 Internal		430
+536871343	 TooManyBytesForStringConstant 	 Internal		431
+536871344	 TooManyFields 	 Internal		432
+536871345	 TooManyMethods 	 Internal		433
+536871352	 UseAssertAsAnIdentifier 	 Internal		440
+536871353	 UseEnumAsAnIdentifier 	 Internal		441
+536871362	 Task 	 Internal		450
+536871363	 NullLocalVariableReference 	 Internal		451
+536871364	 PotentialNullLocalVariableReference 	 Internal		452
+536871365	 RedundantNullCheckOnNullLocalVariable 	 Internal		453
+536871366	 NullLocalVariableComparisonYieldsFalse 	 Internal		454
+536871367	 RedundantLocalVariableNullAssignment 	 Internal		455
+536871368	 NullLocalVariableInstanceofYieldsFalse 	 Internal		456
+536871369	 RedundantNullCheckOnNonNullLocalVariable 	 Internal		457
+536871370	 NonNullLocalVariableComparisonYieldsFalse 	 Internal		458
+536871372	 UndocumentedEmptyBlock 	 Internal		460
+536871426	 JavadocMessagePrefix 	 Internal		514
+536871432	 DuplicateTypeVariable 	 Internal		520
+536871433	 IllegalTypeVariableSuperReference 	 Internal		521
+536871434	 NonStaticTypeFromStaticInvocation 	 Internal		522
+536871435	 ObjectCannotBeGeneric 	 Internal		523
+536871450	 UndefinedTypeVariable 	 Internal		538
+536871458	 IllegalInstanceofParameterizedType 	 Internal		546
+536871459	 IllegalInstanceofTypeParameter 	 Internal		547
+536871493	 InvalidTypeForCollection 	 Internal		581
+536871522	 DuplicateAnnotationMember 	 Internal		610
+536871524	 AnnotationValueMustBeClassLiteral 	 Internal		612
+536871525	 AnnotationValueMustBeConstant 	 Internal		613
+536871526	 AnnotationFieldNeedConstantInitialization 	 Internal		614
+536871527	 IllegalModifierForAnnotationField 	 Internal		615
+536871533	 DuplicateTargetInTargetAnnotation 	 Internal		621
+536871537	 AnnotationValueMustBeAnnotation 	 Internal		625
+536871540	 FieldMissingDeprecatedAnnotation 	 Internal		628
+536871541	 MethodMissingDeprecatedAnnotation 	 Internal		629
+536871542	 TypeMissingDeprecatedAnnotation 	 Internal		630
+536871543	 UnhandledWarningToken 	 Internal		631
+536871544	 AnnotationValueMustBeArrayInitializer 	 Internal		632
+536871545	 AnnotationValueMustBeAnEnumConstant 	 Internal		633
+536871547	 UnusedWarningToken 	 Internal		635
+536871612	 CorruptedSignature 	 Internal		700
+536871613	 InvalidEncoding 	 Internal		701
+536871614	 CannotReadSource 	 Internal		702
+536871632	 BoxingConversion 	 Internal		720
+536871633	 UnboxingConversion 	 Internal		721
+268435841	 ConflictingImport 	 Import Related		385
+268435842	 DuplicateImport 	 Import Related		386
+268435843	 CannotImportPackage 	 Import Related		387
+268435844	 UnusedImport 	 Import Related		388
+268435846	 ImportNotFound 	 Import Related		389
+268435847	 ImportNotVisible 	 Import Related		389
+268435848	 ImportAmbiguous 	 Import Related		389
+268435849	 ImportInternalNameProvided 	 Import Related		389
+268435850	 ImportInheritedNameHidesEnclosingName 	 Import Related		389
+268435847	 InvalidTypeForStaticImport 	 Import Related		391
+33554502	 UndefinedField 	 Field Related		70
+33554503	 NotVisibleField 	 Field Related		71
+33554504	 AmbiguousField 	 Field Related		72
+33554505	 UsingDeprecatedField 	 Field Related		73
+33554506	 NonStaticFieldFromStaticInvocation 	 Field Related		74
+570425419	 ReferenceToForwardField 	 Field Related	 Internal	75
+33554512	 FinalFieldAssignment 	 Field Related		80
+33554513	 UninitializedBlankFinalField 	 Field Related		81
+33554514	 DuplicateBlankFinalFieldInitialization 	 Field Related		82
+33554602	 DuplicateCase 	 Field Related		170
+33554622	 NeedToEmulateFieldReadAccess 	 Field Related		190
+33554623	 NeedToEmulateFieldWriteAccess 	 Field Related		191
+33554628	 InheritedFieldHidesEnclosingName 	 Field Related		196
+33554653	 NoFieldOnBaseType 	 Field Related		221
+33554772	 DuplicateField 	 Field Related		340
+33554773	 DuplicateModifierForField 	 Field Related		341
+33554774	 IllegalModifierForField 	 Field Related		342
+33554775	 IllegalModifierForInterfaceField 	 Field Related		343
+33554776	 IllegalVisibilityModifierCombinationForField 	 Field Related		344
+33554777	 IllegalModifierCombinationFinalVolatileForField 	 Field Related		345
+33554778	 UnexpectedStaticModifierForField 	 Field Related		346
+33554782	 FieldTypeNotFound 	 Field Related		349
+33554783	 FieldTypeNotVisible 	 Field Related		349
+33554784	 FieldTypeAmbiguous 	 Field Related		349
+33554785	 FieldTypeInternalNameProvided 	 Field Related		349
+33554786	 FieldTypeInheritedNameHidesEnclosingName 	 Field Related		349
+33555183	 IllegalModifierForEnumConstant 	 Field Related		751
+33555187	 IllegalQualifiedEnumConstantLabel 	 Field Related		755
+33555191	 EnumSwitchCannotTargetField 	 Field Related		759
+33555193	 MissingEnumConstantCase 	 Field Related		761
+33555194	 EnumStaticFieldInInInitializerContext 	 Field Related		762
+134217857	 MissingTypeInConstructor 	 Constructor Related		129
+134217858	 UndefinedConstructor 	 Constructor Related		130
+134217859	 NotVisibleConstructor 	 Constructor Related		131
+134217860	 AmbiguousConstructor 	 Constructor Related		132
+134217861	 UsingDeprecatedConstructor 	 Constructor Related		133
+134217863	 InstanceFieldDuringConstructorInvocation 	 Constructor Related		135
+134217864	 InstanceMethodDuringConstructorInvocation 	 Constructor Related		136
+134217865	 RecursiveConstructorInvocation 	 Constructor Related		137
+134217866	 ThisSuperDuringConstructorInvocation 	 Constructor Related		138
+1207959691	 InvalidExplicitConstructorCall 	 Constructor Related	 Syntax	139
+134217868	 UndefinedConstructorInDefaultConstructor 	 Constructor Related		140
+134217869	 NotVisibleConstructorInDefaultConstructor 	 Constructor Related		141
+134217870	 AmbiguousConstructorInDefaultConstructor 	 Constructor Related		142
+134217871	 UndefinedConstructorInImplicitConstructorCall 	 Constructor Related		143
+134217872	 NotVisibleConstructorInImplicitConstructorCall 	 Constructor Related		144
+134217873	 AmbiguousConstructorInImplicitConstructorCall 	 Constructor Related		145
+134218530	 ConstructorVarargsArgumentNeedCast 	 Constructor Related		802
